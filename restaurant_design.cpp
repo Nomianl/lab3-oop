@@ -95,3 +95,5 @@ int main() {
     cout << "Esqueletos de diseno - sin logica de ejecucion en este bloque.\n";
     return 0;
 }
+
+
